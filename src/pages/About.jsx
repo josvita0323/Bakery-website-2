@@ -3,11 +3,11 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div className="coustom1">
+    <div className="cart-page">
     <div className="Section1">
         
-        
-        <section className="homee" >
+        <section>
+        <div className ="homee" >
         <div className="home">
          <h3>About us</h3>
          <h3>Welcome to Let's Bake</h3>
@@ -24,7 +24,8 @@ export default function About() {
             place your order, and let us handle the rest.
             We offer fast and reliable delivery services to ensure that your cake arrives fresh and on time, 
             ready to make your special moments even sweeter!</p>
-        </div>    
+        </div>  
+        </div>  
       </section>
 
 
